@@ -1,0 +1,24 @@
+{
+  "name": "javimunoz.me",
+  "homepage": "https://github.com/javimudi/javimunoz.me",
+  "authors": [
+    "Javier Muñoz <javimudi@users.noreply.github.com>"
+  ],
+  "description": "Javi Muñoz personal Website",
+  "main": "index.html",
+  "keywords": [
+    "Javi",
+    "Muñoz"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
