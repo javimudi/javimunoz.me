@@ -4,7 +4,7 @@ javimunoz.directive('javiTitle', function(){
 	return {
 		restrict: 'E',
 		template: function(){
-			return '<title>Javi Mu&ntilde;oz - Website</title>';
+			return '<title>Javi Muñoz - Website</title>';
 		}
 	}
 });
